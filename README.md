@@ -1,4 +1,5 @@
 99-questions
 ============
 
-solving the 99 questions in haskell
+Solving the 99 questions in haskell, for fun and practice. 
+http://www.haskell.org/haskellwiki/99_questions
